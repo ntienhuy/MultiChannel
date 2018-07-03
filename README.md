@@ -1,7 +1,7 @@
 # MultiChannel
 Multi-channel LSTM-CNN model for Vietnamese sentiment analysis
 
-This is implementation for this paper "Multi-channel LSTM-CNN model for Vietnamese sentiment analysis".
+This is implementation for the paper "Multi-channel LSTM-CNN model for Vietnamese sentiment analysis".
 
 We provide a sentiment analysis dataset: VS. The dataset include two version: tokenized and without tokenized.
 
@@ -23,7 +23,7 @@ application.
 ## License & co
 
 * The code in this repository is released under the terms of the
-  [MIT license](LICENSE.txt).
+  [GNU General Public License v3.0](LICENSE.txt).
 * If you use our data or implementation, please cite our following paper and share your idea by email :
 ```
 @INPROCEEDINGS{Quan, 
