@@ -20,7 +20,7 @@ Please create an issue at https://github.com/ntienhuy/MultiChannel reposiroty.
 We encourage people to contribute to this repository and apply in practical
 application.
 
-## License & co
+## License
 
 * The code in this repository is released under the terms of the
   [GNU General Public License v3.0](LICENSE.txt).
